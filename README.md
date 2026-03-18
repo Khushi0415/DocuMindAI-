@@ -25,3 +25,4 @@ streamlit run rag_app.py
 
 ## UI Preview
 screenshot.png
+

@@ -24,5 +24,5 @@ An intelligent document assistant based on Retrieval Augmented Generation (RAG).
 streamlit run rag_app.py
 
 ## UI Preview
-screenshot.png
+Screenshot 2026-03-18 110335.png
 
